@@ -1,11 +1,12 @@
 import React from "react";
+import MonthYearPicker from "./MonthYearPicker";
 
 function LeftContainerWCMP() {
   return (
     <section className="leftContainer">
       <fieldset>
         <article>
-          <h3>This is my top section</h3>
+          <MonthYearPicker />
         </article>
         <legend>Calendar</legend>
       </fieldset>
