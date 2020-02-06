@@ -7,7 +7,7 @@ import RightContainerDP from "../Components/RightContainerDP";
 function Dashboard() {
   return (
     <div className="App">
-      <div className="row">
+      <div className="main">
         <LeftContainerDP />
         <RightContainerDP />
       </div>

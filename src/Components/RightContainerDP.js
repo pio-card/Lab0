@@ -14,7 +14,7 @@ function RightContainerDP() {
           </div>
 
           <div>
-            <img src={Clipart} alt="" />
+            <img src={Clipart} width="136" height="135" alt="" />
           </div>
 
           <div>
