@@ -7,7 +7,7 @@ function TopNavBar() {
       <Link to="/Home">Home </Link>
       <div className="topnav-right">
         <a href="#account">Account</a>
-        <a href="#logout">Logout</a>
+        <a href="/LoginScreen">Logout</a>
       </div>
     </div>
   );
